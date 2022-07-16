@@ -6,3 +6,7 @@
 #3 Gravity
 
 #4 Player Movement
+
+#5 Platforms
+
+#6 "Scroll" the background
